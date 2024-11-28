@@ -1,4 +1,5 @@
-Update: 27-11-24 Firefox 133.0 broke the animation, so I pushed a fix and updated this readme.
+Update: 27-11-24 Firefox 133.0 broke the animation, so I pushed a fix and updated this readme. 
+
 You'll need Firefox and Tree Style Tabs (TST)[1] installed as well as some of the TST extensions. Here I'm showing "TST indent line"[2] and "TST Bookmark subpanel"[3]
 The config file is totally optional and is mostly for personal use, it stores keyboard/mouse shortcuts and tab behavior. 
 
